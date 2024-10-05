@@ -8,3 +8,7 @@
   color-scheme: dark;
   font-family: "Poppins", sans-serif;
 }
+
+body{
+  background-image: url("/bg-texture.png");
+}
